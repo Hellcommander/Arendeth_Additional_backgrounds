@@ -1,0 +1,21 @@
+[
+    {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "wantobemutanthobby",
+    "name": "Want to be a mutant",
+    "description": "For whatever reason you have decided to go on a journey to change your genetic code and mutate your body. You have already got your genetic code primed for safer mutating of it by a going to a expermental goverment sponsored clinic before the chaos happened.",
+    "points": 1,
+	"traits": [ "ROBUST" ],
+    "missions": [ "MISSION_MUTANT_VOLUNTEER" ]
+  },
+    {
+    "type": "profession",
+    "subtype": "hobby",
+    "name": "Trained Morgue Assistant",
+    "id": "hobby_dissect_humans",
+    "description": "You have trained to work at a morgue so you are desensitized to the sight of a human's innards, and can dissect human corpses without penalty.",
+    "points": 1,
+    "proficiencies": [ "prof_dissect_humans" ]
+  }
+]

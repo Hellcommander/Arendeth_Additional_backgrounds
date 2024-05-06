@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Arendeth_Additional_backgrounds",
+    "name": "Additional backgrounds",
+    "authors": [ "Arendeth" ],
+    "maintainers": [ "Arendeth" ],
+    "description": "Adds a some new useful selectable backgrounds.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
